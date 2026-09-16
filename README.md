@@ -105,15 +105,6 @@ An AI-powered meeting assistant that:
 
 ---
 
-## 📊 GitHub Goals for 2026
-
-* Build impactful AI applications
-* Contribute to open-source projects
-* Publish research-oriented projects
-* Participate in national hackathons
-* Strengthen AI and Data Science portfolio
-
----
 
 ## 🤝 Connect With Me
 
