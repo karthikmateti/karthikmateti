@@ -11,7 +11,7 @@ I enjoy building real-world AI applications, exploring cutting-edge research, an
 ## 🚀 About Me
 
 * 🎓 B.Tech in Computing & Data Science @ Sai University
-* 📊 CGPA: 8.88/10
+* 📊 CGPA: 8.89/10
 * 🔬 Summer Research Intern @ IIIT Pune
 * 🤖 Summer Intern @ Ideas TIH, ISI Kolkata
 * 🧠 AI Intern @ Sri Sathya Sai Institute of Actuarial Science
